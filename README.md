@@ -5,7 +5,7 @@
 <span>Chatbox</span>
 </h1>
 <p align="center">
-    English | <a href="./README-CN.md">中文介绍</a>
+    English | <a href="./README-FR.md">French</a>
 </p>
 <p align="center">
     <em>Your Ultimate AI Copilot on the Desktop. <br />Chatbox is a desktop app for GPT/LLM that supports Windows, Mac & Linux.</em>
